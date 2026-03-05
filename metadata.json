@@ -1,0 +1,5 @@
+{
+  "name": "Simple Business Calculator",
+  "description": "A mobile-friendly business calculator for tracking sales, costs, GST, and profit/loss.",
+  "requestFramePermissions": []
+}
